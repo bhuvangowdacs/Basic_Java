@@ -77,6 +77,7 @@ public class checkBoxHandling {
 	    		ele.click();
 	    	}
 	    }
+	    System.out.println("first change");
 	}
 
 }
